@@ -1,6 +1,6 @@
 {
   "name": "dollar-tomans-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "return last price of currency like dollar, pound, euro, bitcoin plus oil and gold price in rials(or tomans)",
   "main": "index.js",
   "scripts": {

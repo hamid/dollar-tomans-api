@@ -40,7 +40,7 @@ npm i dollar-tomans-api
 
 ## نحوه استفاده
 ```javascript
-import { fetchAll, fetchFootbalLeageTable }  from 'dollar-tomans-api';
+const  { fetchAll, fetchFootbalLeageTable } = require('dollar-tomans-api');
 ...
 ...
 var lastPrice = await fetchAll();
