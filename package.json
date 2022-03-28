@@ -1,0 +1,38 @@
+{
+  "name": "dollar-tomans-api",
+  "version": "1.0.0",
+  "description": "return last price of currency like dollar, pound, euro, bitcoin plus oil and gold price in rials(or tomans)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid/dollar-tomans-api.git"
+  },
+  "keywords": [
+    "currency",
+    "like",
+    "dollar",
+    "pound",
+    "euro",
+    "bitcoin",
+    "plus",
+    "oil",
+    "gold",
+    "pricerials",
+    "tomans",
+    "last"
+  ],
+  "author": "Hamid Reza Salimian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid/dollar-tomans-api/issues"
+  },
+  "homepage": "https://github.com/hamid/dollar-tomans-api#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "got": "^11.8.3"
+  },
+  "devDependencies": {}
+}
